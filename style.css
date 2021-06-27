@@ -1670,6 +1670,14 @@ video {
   margin-right: 0;
 }
 
+.color {
+  color: #01a0f9;
+}
+
+.color:hover {
+  color: #09c778;
+}
+
 /* ------------------------------------
     07. About Section CSS
 -------------------------------------*/
