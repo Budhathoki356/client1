@@ -1670,6 +1670,28 @@ video {
   margin-right: 0;
 }
 
+.right {
+  max-width: 45% !important;
+}
+
+.about-explainable {
+  max-width: 1800px !important;
+}
+
+@media (max-width: 991px) {
+  .right {
+    max-width: unset !important;
+  }
+  .about-explainable {
+    max-width: 700px!important;
+  }
+}
+
+.around {
+  width: 300px;
+  margin: 0 auto;
+}
+
 .color {
   color: #01a0f9;
 }
