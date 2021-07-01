@@ -1610,6 +1610,22 @@ video {
   line-height: 40px;
 }
 
+.header-head {
+  font-size: 40px!important;
+}
+
+.hexa_button {
+  color: white!important;
+}
+
+.btn_5 {
+  /* font-size: 30px!important; */
+}
+
+.flaticon-play-button {
+  font-size: 40px!important;
+}
+
 /* ------------------------------------
     06. Breadcrumbs CSS
 -------------------------------------*/
